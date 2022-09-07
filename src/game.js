@@ -1,4 +1,3 @@
-
 //Game Logic Object
 BasicGame.Game = function(game) {
 
